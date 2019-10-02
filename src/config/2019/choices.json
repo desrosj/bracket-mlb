@@ -1,0 +1,52 @@
+[
+  {
+    "competitor": "@aaronjorbin",
+    "choices": [
+      {
+        "name": "ALDS1",
+        "pick": "MIN",
+        "games": 4
+      },
+      {
+        "name": "ALDS2",
+        "pick": "HOU",
+        "games": 3
+      },
+      {
+        "name": "NLDS1",
+        "pick": "ATL",
+        "games": 5
+      },
+      {
+        "name": "NLDS2",
+        "pick": "LAD",
+        "games": 4
+      }
+    ]
+  },
+  {
+    "competitor": "@desrosj",
+		"choices": [
+      {
+        "name": "ALDS1",
+        "pick": "NYY",
+        "games": 4
+      },
+      {
+        "name": "ALDS2",
+        "pick": "HOU",
+        "games": 3
+      },
+      {
+        "name": "NLDS1",
+        "pick": "ATL",
+        "games": 4
+      },
+      {
+        "name": "NLDS2",
+        "pick": "LAD",
+        "games": 5
+      }
+    ]
+  }
+]

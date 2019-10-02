@@ -1,0 +1,31 @@
+{
+  "name": "bracket-mlb",
+  "version": "0.0.1",
+  "description": "Organize and score MLB playoff bracket",
+  "main": "index.js",
+  "scripts": {
+    "start:api": "micro",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "now-build": "npm run build"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "4.17.15",
+    "micro": "9.3.4",
+    "react": "16.8.6",
+    "react-dom": "16.8.6",
+    "react-router-dom": "5.0.1",
+    "react-scripts": "3.0.1",
+    "yargs": "11.1.0"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}

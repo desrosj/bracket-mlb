@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Atlanta Braves",
+    "short": "ATL"
+  },
+  {
+    "name": "Los Angeles Dodgers",
+    "short": "LAD"
+  },
+  {
+    "name": "New York Yankees",
+    "short": "NYY"
+  },
+  {
+    "name": "Houston Astros",
+    "short": "HOU"
+  },
+  {
+    "name": "Minnesota Twins",
+    "short": "MIN"
+  },
+  {
+    "name": "St. Louis Cardinals",
+    "short": "STL"
+  },
+  {
+    "name": "Washington Nationals",
+    "short": "WAS"
+  },
+  {
+    "name": "Tampa Bay Rays",
+    "short": "TAM"
+  },
+  {
+    "name": "Oakland Athletics",
+    "short": "OAK"
+  },
+  {
+    "name": "Milwuakee Brewers",
+    "short": "MIL"
+  }
+]
