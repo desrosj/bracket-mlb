@@ -21,12 +21,22 @@
         "name": "NLDS2",
         "pick": "LAD",
         "games": 4
+      },
+      {
+        "name": "ALCS",
+        "pick": "",
+        "games":
+      },
+      {
+        "name": "NLCS",
+        "pick": "",
+        "games":
       }
     ]
   },
   {
     "competitor": "@desrosj",
-		"choices": [
+    "choices": [
       {
         "name": "ALDS1",
         "pick": "NYY",
@@ -46,6 +56,16 @@
         "name": "NLDS2",
         "pick": "LAD",
         "games": 5
+      },
+      {
+        "name": "ALCS",
+        "pick": "HOU",
+        "games": 6
+      },
+      {
+        "name": "NLCS",
+        "pick": "STL",
+        "games": 7
       }
     ]
   }

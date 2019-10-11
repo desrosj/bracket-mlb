@@ -1,10 +1,9 @@
 const _ = require('lodash');
 
 const POINTS_FOR_PICK = {
-  1: 1,
-  2: 3,
-  3: 5,
-  4: 7
+  1: 2,
+  2: 4,
+  3: 8
 };
 const POINTS_FOR_GAMES = 2;
 
@@ -16,8 +15,7 @@ const getRoundFromGame = (game) => {
     4: 1,
     5: 2,
     6: 2,
-    7: 3,
-    8: 4
+    7: 3
   };
 
   const gameNumber = game.slice(-1);

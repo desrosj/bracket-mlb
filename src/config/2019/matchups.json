@@ -3,42 +3,54 @@
     "name": "ALDS1",
     "top": "NYY",
     "bottom": "MIN",
-    "result": {}
+    "result": {
+      "winner": "NYY",
+      "games": 3
+    }
   },
   {
     "name": "ALDS2",
     "top": "HOU",
-    "bottom": "",
-    "result": {}
+    "bottom": "TB",
+    "result": {
+      "winner": "HOU",
+      "games": "5"
+    }
   },
   {
     "name": "NLDS1",
     "top": "ATL",
     "bottom": "STL",
-    "result": {}
+    "result": {
+      "winner": "STL",
+      "games": 5
+    }
   },
   {
     "name": "NLDS2",
     "top": "LAD",
-    "bottom": "WAS",
+    "bottom": "WSH",
+    "result": {
+        "winner": "WSH",
+        "games": 5
+      }
+  },
+  {
+    "name": "ALCS",
+    "top": "HOU",
+    "bottom": "NYY",
     "result": {}
   },
   {
     "name": "NLCS",
-    "top": "",
-    "bottom": "",
+    "top": "STL",
+    "bottom": "WSH",
     "result": {}
-  },
-  {
-    "name": "ALCS",
-    "top": "",
-    "bottom": "",
-		"result": {}
   },
   {
     "name": "WS",
     "top": "",
     "bottom": "",
-		"result": {}
+    "result": {}
   }
 ]
