@@ -14,6 +14,17 @@ const getRoundFromGame = (game) => {
 		2: 1,
 		3: 1,
 		4: 1,
+		5: 2,
+		6: 2,
+		7: 3,
+		8: 4
+	};
+
+	const mapping_2020 = {
+		1: 1,
+		2: 1,
+		3: 1,
+		4: 1,
 		5: 1,
 		6: 1,
 		7: 1,
@@ -28,7 +39,7 @@ const getRoundFromGame = (game) => {
 	};
 
 	const gameNumber = game.slice(-1);
-	return mapping[gameNumber] || 0;
+	return mapping_2020[gameNumber] || 0;
 };
 
 const getPointsForGame = (game) => {
