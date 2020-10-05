@@ -1,0 +1,227 @@
+[
+  {
+    "competitor": "@aaronjorbin",
+    "choices": [
+        {
+          "name": "ALWC1",
+          "pick": "TB",
+          "games": 3
+        },
+        {
+          "name": "ALWC2",
+          "pick": "CLE",
+          "games": 3
+        },
+        {
+          "name": "ALWC3",
+          "pick": "MIN",
+          "games": 2
+        },
+        {
+          "name": "ALWC4",
+          "pick": "CHW",
+          "games": 2
+        },
+        {
+          "name": "NLWC1",
+          "pick": "LAD",
+          "games": 2
+        },
+        {
+          "name": "NLWC2",
+          "pick": "SD",
+          "games": 3
+        },
+        {
+          "name": "NLWC3",
+          "pick": "MIA",
+          "games": 3
+        },
+        {
+          "name": "NLWC4",
+          "pick": "ATL",
+          "games": 2
+        }
+    ]
+  },
+  {
+    "competitor": "@desrosj",
+    "choices": [
+      {
+        "name": "ALWC1",
+        "pick": "TB",
+        "games": 2
+      },
+      {
+        "name": "ALWC2",
+        "pick": "NYY",
+        "games": 3
+      },
+      {
+        "name": "ALWC3",
+        "pick": "MIN",
+        "games": 3
+      },
+      {
+        "name": "ALWC4",
+        "pick": "OAK",
+        "games": 3
+      },
+      {
+        "name": "NLWC1",
+        "pick": "LAD",
+        "games": 2
+      },
+      {
+        "name": "NLWC2",
+        "pick": "SD",
+        "games": 2
+      },
+      {
+        "name": "NLWC3",
+        "pick": "MIA",
+        "games": 3
+      },
+      {
+        "name": "NLWC4",
+        "pick": "CIN",
+        "games": 3
+      }
+    ]
+  },
+  {
+    "competitor": "@jeffpaul",
+    "choices": [
+      {
+        "name": "ALWC1",
+        "pick": "TB",
+        "games": 2
+      },
+      {
+        "name": "ALWC2",
+        "pick": "CLE",
+        "games": 2
+      },
+      {
+        "name": "ALWC3",
+        "pick": "HOU",
+        "games": 3
+      },
+      {
+        "name": "ALWC4",
+        "pick": "CHW",
+        "games": 3
+      },
+      {
+        "name": "NLWC1",
+        "pick": "LAD",
+        "games": 2
+      },
+      {
+        "name": "NLWC2",
+        "pick": "SD",
+        "games": 3
+      },
+      {
+        "name": "NLWC3",
+        "pick": "CHC",
+        "games": 3
+      },
+      {
+        "name": "NLWC4",
+        "pick": "ATL",
+        "games": 2
+      }
+    ]
+  },
+  {
+    "competitor": "@Drewbewilde",
+    "choices": [
+      {
+        "name": "ALWC1",
+        "pick": "TB",
+        "games": 3
+      },
+      {
+        "name": "ALWC2",
+        "pick": "CLE",
+        "games": 3
+      },
+      {
+        "name": "ALWC3",
+        "pick": "MIN",
+        "games": 3
+      },
+      {
+        "name": "ALWC4",
+        "pick": "OAK",
+        "games": 2
+      },
+      {
+        "name": "NLWC1",
+        "pick": "LAD",
+        "games": 2
+      },
+      {
+        "name": "NLWC2",
+        "pick": "SD",
+        "games": 3
+      },
+      {
+        "name": "NLWC3",
+        "pick": "CHC",
+        "games": 3
+      },
+      {
+        "name": "NLWC4",
+        "pick": "ATL",
+        "games": 3
+      }
+    ]
+  },
+  {
+    "competitor": "@whyisjake",
+    "choices": [
+      {
+        "name": "ALWC1",
+        "pick": "TB",
+        "games": 2
+      },
+      {
+        "name": "ALWC2",
+        "pick": "CLE",
+        "games": 3
+      },
+      {
+        "name": "ALWC3",
+        "pick": "MIN",
+        "games": 3
+      },
+      {
+        "name": "ALWC4",
+        "pick": "OAK",
+        "games": 3
+      },
+      {
+        "name": "NLWC1",
+        "pick": "LAD",
+        "games": 2
+      },
+      {
+        "name": "NLWC2",
+        "pick": "SD",
+        "games": 2
+      },
+      {
+        "name": "NLWC3",
+        "pick": "CHC",
+        "games": 3
+      },
+      {
+        "name": "NLWC4",
+        "pick": "ATL",
+        "games": 3
+      }
+    ]
+  }
+]

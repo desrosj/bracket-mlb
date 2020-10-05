@@ -1,0 +1,74 @@
+[
+  {
+    "name": "ALWC1",
+    "top": "TB",
+    "bottom": "TOR",
+    "result": {
+      "winner": "TB",
+      "games": 2
+    }
+  },
+  {
+    "name": "ALWC2",
+    "top": "CLE",
+    "bottom": "NYY",
+    "result": {
+      "winner": "NYY",
+      "games": 2
+    }
+  },
+  {
+    "name": "ALWC3",
+    "top": "MIN",
+    "bottom": "HOU",
+    "result": {
+      "winner": "HOU",
+      "games": 2
+    }
+  },
+  {
+    "name": "ALWC4",
+    "top": "OAK",
+    "bottom": "CHW",
+    "result": {
+        "winner": "OAK",
+        "games": 3
+      }
+  },
+  {
+    "name": "NLWC1",
+    "top": "LAD",
+    "bottom": "MIL",
+    "result": {
+      "winner": "LAD",
+      "games": 2
+    }
+  },
+  {
+    "name": "NLWC2",
+    "top": "SD",
+    "bottom": "STL",
+    "result": {
+      "winner": "SD",
+      "games": 3
+    }
+  },
+  {
+    "name": "NLWC3",
+    "top": "CHC",
+    "bottom": "MIA",
+    "result": {
+      "winner": "MIA",
+      "games": 2
+    }
+  },
+  {
+    "name": "NLWC4",
+    "top": "ATL",
+    "bottom": "CIN",
+    "result": {
+      "winner": "ATL",
+      "games": 2
+    }
+  }
+]
