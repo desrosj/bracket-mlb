@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "alias": "blame.hockey",
+  "alias": "blame.baseball",
   "builds": [{
     "src": "package.json",
     "use": "@now/static-build",

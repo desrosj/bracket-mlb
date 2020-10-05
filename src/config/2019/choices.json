@@ -24,13 +24,18 @@
       },
       {
         "name": "ALCS",
-        "pick": "",
-        "games":
+        "pick": "HOU",
+        "games": 5
       },
       {
         "name": "NLCS",
-        "pick": "",
-        "games":
+        "pick": "WAS",
+        "games": 7
+      },
+      {
+        "name": "WS",
+        "pick": "WAS",
+        "games": 6
       }
     ]
   },
@@ -66,6 +71,11 @@
         "name": "NLCS",
         "pick": "STL",
         "games": 7
+      },
+      {
+        "name": "WS",
+        "pick": "HOU",
+        "games": 6
       }
     ]
   }

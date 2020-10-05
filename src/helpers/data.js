@@ -13,10 +13,10 @@ const GET_YEAR_DATA = ( y = YEAR ) => {
 }
 
 module.exports = {
-  CHOICES,
-  COMPETITORS,
-  MATCHUPS,
-  TEAMS,
-  YEAR,
-  GET_YEAR_DATA
+	CHOICES,
+	COMPETITORS,
+	MATCHUPS,
+	TEAMS,
+	YEAR,
+	GET_YEAR_DATA
 }

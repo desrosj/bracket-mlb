@@ -1,0 +1,118 @@
+[
+  {
+    "name": "Baltimore Orioles",
+    "short": "BAL"
+  },
+  {
+    "name": "Boston Red Sox",
+    "short": "Bos"
+  },
+  {
+    "name": "Chicago White Sox",
+    "short": "CHW"
+  },
+  {
+    "name": "Cleveland Indians",
+    "short": "CLE"
+  },
+  {
+    "name": "Detroit Tigers",
+    "short": "DET"
+  },
+  {
+    "name": "Houston Astros",
+    "short": "HOU"
+  },
+  {
+    "name": "Kansas City Royals",
+    "short": "KC"
+  },
+  {
+    "name": "Los Angeles Angels",
+    "short": "LAA"
+  },
+  {
+    "name": "Minnesota Twins",
+    "short": "MIN"
+  },
+  {
+    "name": "New York Yankees",
+    "short": "NYY"
+  },
+  {
+    "name": "Oakland Athletics",
+    "short": "OAK"
+  },
+  {
+    "name": "Seattle Mariners",
+    "short": "SEA"
+  },
+  {
+    "name": "Tampa Bay Rays",
+    "short": "TB"
+  },
+  {
+    "name": "Texas Rangers",
+    "short": "TEX"
+  },
+  {
+    "name": "Toronto Blue Jays",
+    "short": "TOR"
+  },
+  {
+    "name": "Arizona Diamondbacks",
+    "short": "ARI"
+  },
+  {
+    "name": "Atlanta Braves",
+    "short": "ATL"
+  },
+  {
+    "name": "Chicago Cubs",
+    "short": "CHC"
+  },
+  {
+    "name": "Cincinnati Reds",
+    "short": "CIN"
+  },
+  {
+    "name": "Colorado Rockies",
+    "short": "COL"
+  },
+  {
+    "name": "Los Angeles Dodgers",
+    "short": "LAD"
+  },
+  {
+    "name": "Milwaukee Brewers",
+    "short": "MIL"
+  },
+  {
+    "name": "New York Mets",
+    "short": "NYM"
+  },
+  {
+    "name": "Philadelphia Phillies",
+    "short": "PHI"
+  },
+  {
+    "name": "Pittsburgh Pirates",
+    "short": "PIT"
+  },
+  {
+    "name": "San Diego Padres",
+    "short": "SD"
+  },
+  {
+    "name": "San Francisco Giants",
+    "short": "SF"
+  },
+  {
+    "name": "St. Louis Cardinals",
+    "short": "STL"
+  },
+  {
+    "name": "Washington Nationals",
+    "short": "WAS"
+  }
+]
