@@ -2,9 +2,9 @@ const _ = require('lodash');
 
 const POINTS_FOR_PICK = {
 	1: 1,
-	2: 3,
-	3: 5,
-	4: 7
+	2: 4,
+	3: 10,
+	4: 20
 };
 const POINTS_FOR_GAMES = 2;
 
