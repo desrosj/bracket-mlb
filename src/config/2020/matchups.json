@@ -71,4 +71,41 @@
       "games": 2
     }
   }
+  {
+    "name": "ALDS1",
+    "top": "TB",
+    "bottom": "NYY",
+    "result": {
+      "winner": "",
+      "games": 
+    }
+  },
+  {
+    "name": "ALDS2",
+    "top": "HOU",
+    "bottom": "OAK",
+    "result": {
+      "winner": "",
+      "games": 
+    }
+  },
+  {
+    "name": "NLDS1",
+    "top": "LAD",
+    "bottom": "SD",
+    "result": {
+      "winner": "",
+      "games": 
+    }
+  },
+  {
+    "name": "NLDS2",
+    "top": "MIA",
+    "bottom": "ATL",
+    "result": {
+      "winner": "",
+      "games": 
+    }
+  },
+
 ]
