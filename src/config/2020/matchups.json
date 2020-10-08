@@ -70,7 +70,7 @@
       "winner": "ATL",
       "games": 2
     }
-  }
+  },
   {
     "name": "ALDS1",
     "top": "TB",
@@ -106,6 +106,5 @@
       "winner": "",
       "games": 
     }
-  },
-
+  }
 ]
