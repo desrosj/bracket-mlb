@@ -70,5 +70,41 @@
       "winner": "ATL",
       "games": 2
     }
+  },
+  {
+    "name": "ALDS1",
+    "top": "TB",
+    "bottom": "NYY",
+    "result": {
+      "winner": "",
+      "games": 
+    }
+  },
+  {
+    "name": "ALDS2",
+    "top": "HOU",
+    "bottom": "OAK",
+    "result": {
+      "winner": "HOU",
+      "games": 4
+    }
+  },
+  {
+    "name": "NLDS1",
+    "top": "LAD",
+    "bottom": "SD",
+    "result": {
+      "winner": "LAD",
+      "games": 3
+    }
+  },
+  {
+    "name": "NLDS2",
+    "top": "MIA",
+    "bottom": "ATL",
+    "result": {
+      "winner": "ATL",
+      "games": 3
+    }
   }
 ]

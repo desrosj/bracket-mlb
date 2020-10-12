@@ -41,6 +41,26 @@
           "name": "NLWC4",
           "pick": "ATL",
           "games": 2
+        },
+        {
+          "name": "ALDS1",
+          "pick": "TB",
+          "games": 4
+        },
+        {
+          "name": "ALDS2",
+          "pick": "OAK",
+          "games": 5
+        },
+        {
+          "name": "NLDS1",
+          "pick": "LAD",
+          "games": 3
+        },
+        {
+          "name": "NLDS2",
+          "pick": "ATL",
+          "games": 3
         }
     ]
   },
@@ -85,6 +105,26 @@
       {
         "name": "NLWC4",
         "pick": "CIN",
+        "games": 3
+      },
+      {
+        "name": "ALDS1",
+        "pick": "NYY",
+        "games": 4
+      },
+      {
+        "name": "ALDS2",
+        "pick": "OAK",
+        "games": 5
+      },
+      {
+        "name": "NLDS1",
+        "pick": "LAD",
+        "games": 4
+      },
+      {
+        "name": "NLDS2",
+        "pick": "ATL",
         "games": 3
       }
     ]
@@ -131,7 +171,27 @@
         "name": "NLWC4",
         "pick": "ATL",
         "games": 2
-      }
+      },
+      {
+        "name": "ALDS1",
+        "pick": "TB",
+        "games": 5
+      },
+      {
+        "name": "ALDS2",
+        "pick": "OAK",
+        "games": 5
+      },
+      {
+        "name": "NLDS1",
+        "pick": "LAD",
+        "games": 4
+      },
+      {
+        "name": "NLDS2",
+        "pick": "ATL",
+        "games": 4
+      }      
     ]
   },
   {
@@ -176,7 +236,27 @@
         "name": "NLWC4",
         "pick": "ATL",
         "games": 3
-      }
+      },
+      {
+        "name": "ALDS1",
+        "pick": "TB",
+        "games": 5
+      },
+      {
+        "name": "ALDS2",
+        "pick": "OAK",
+        "games": 5
+      },
+      {
+        "name": "NLDS1",
+        "pick": "SD",
+        "games": 4
+      },
+      {
+        "name": "NLDS2",
+        "pick": "ATL",
+        "games": 4
+      }      
     ]
   },
   {
@@ -221,7 +301,27 @@
         "name": "NLWC4",
         "pick": "ATL",
         "games": 3
-      }
+      },
+      {
+        "name": "ALDS1",
+        "pick": "TB",
+        "games": 5
+      },
+      {
+        "name": "ALDS2",
+        "pick": "OAK",
+        "games": 5
+      },
+      {
+        "name": "NLDS1",
+        "pick": "LAD",
+        "games": 4
+      },
+      {
+        "name": "NLDS2",
+        "pick": "ATL",
+        "games": 4
+      }      
     ]
   }
 ]
