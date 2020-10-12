@@ -61,6 +61,16 @@
           "name": "NLDS2",
           "pick": "ATL",
           "games": 3
+        },
+        {
+          "name": "ALCS",
+          "pick": "TB",
+          "games": 6
+        },
+        {
+          "name": "NLCS",
+          "pick": "ATL",
+          "games": 5
         }
     ]
   },
@@ -126,6 +136,16 @@
         "name": "NLDS2",
         "pick": "ATL",
         "games": 3
+      },
+      {
+        "name": "ALCS",
+        "pick": "TB",
+        "games": 7
+      },
+      {
+        "name": "NLCS",
+        "pick": "LAD",
+        "games": 6
       }
     ]
   },
@@ -191,7 +211,17 @@
         "name": "NLDS2",
         "pick": "ATL",
         "games": 4
-      }      
+      },
+      {
+        "name": "ALCS",
+        "pick": "TB",
+        "games": 6
+      },
+      {
+        "name": "NLCS",
+        "pick": "LAD",
+        "games": 5
+      }
     ]
   },
   {
@@ -256,7 +286,17 @@
         "name": "NLDS2",
         "pick": "ATL",
         "games": 4
-      }      
+      },
+      {
+        "name": "ALCS",
+        "pick": "TB",
+        "games": 7
+      },
+      {
+        "name": "NLCS",
+        "pick": "ATL",
+        "games": 7
+      }
     ]
   },
   {
@@ -321,7 +361,17 @@
         "name": "NLDS2",
         "pick": "ATL",
         "games": 4
-      }      
+      },
+      {
+        "name": "ALCS",
+        "pick": "TB",
+        "games": 6
+      },
+      {
+        "name": "NLCS",
+        "pick": "LAD",
+        "games": 7
+      }
     ]
   }
 ]

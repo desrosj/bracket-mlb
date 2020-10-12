@@ -76,8 +76,8 @@
     "top": "TB",
     "bottom": "NYY",
     "result": {
-      "winner": "",
-      "games": 
+      "winner": "TB",
+      "games": 5
     }
   },
   {
@@ -105,6 +105,24 @@
     "result": {
       "winner": "ATL",
       "games": 3
+    }
+  },
+  {
+    "name": "ALCS",
+    "top": "TB",
+    "bottom": "HOU",
+    "result": {
+      "winner": "",
+      "games":
+    }
+  },
+  {
+    "name": "NLCS",
+    "top": "LAD",
+    "bottom": "ATL",
+    "result": {
+      "winner": "",
+      "games":
     }
   }
 ]
