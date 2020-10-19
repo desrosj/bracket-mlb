@@ -20,26 +20,8 @@ const getRoundFromGame = (game) => {
 		8: 4
 	};
 
-	const mapping_2020 = {
-		1: 1,
-		2: 1,
-		3: 1,
-		4: 1,
-		5: 1,
-		6: 1,
-		7: 1,
-		8: 1,
-		9: 2,
-		10: 2,
-		11: 2,
-		12: 2,
-		13: 3,
-		14: 3,
-		15: 4
-	};
-
 	const gameNumber = game.slice(-1);
-	return mapping_2020[gameNumber] || 0;
+	return mapping[gameNumber] || 0;
 };
 
 const getPointsForGame = (game) => {
