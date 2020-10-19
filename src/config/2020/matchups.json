@@ -72,7 +72,7 @@
     }
   },
   {
-    "name": "ALDS1",
+    "name": "ALDS5",
     "top": "TB",
     "bottom": "NYY",
     "result": {
@@ -81,7 +81,7 @@
     }
   },
   {
-    "name": "ALDS2",
+    "name": "ALDS6",
     "top": "HOU",
     "bottom": "OAK",
     "result": {
@@ -90,7 +90,7 @@
     }
   },
   {
-    "name": "NLDS1",
+    "name": "NLDS5",
     "top": "LAD",
     "bottom": "SD",
     "result": {
@@ -99,7 +99,7 @@
     }
   },
   {
-    "name": "NLDS2",
+    "name": "NLDS6",
     "top": "MIA",
     "bottom": "ATL",
     "result": {
@@ -108,21 +108,21 @@
     }
   },
   {
-    "name": "ALCS",
+    "name": "ALCS7",
     "top": "TB",
     "bottom": "HOU",
     "result": {
-      "winner": "",
-      "games":
+      "winner": "TB",
+      "games": 7
     }
   },
   {
-    "name": "NLCS",
+    "name": "NLCS7",
     "top": "LAD",
     "bottom": "ATL",
     "result": {
-      "winner": "",
-      "games":
+      "winner": "LAD",
+      "games": 7
     }
   }
 ]
