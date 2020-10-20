@@ -123,6 +123,14 @@
     "result": {
       "winner": "LAD",
       "games": 7
+    },
+  {
+    "name": "WS",
+    "top": "TB",
+    "bottom": "LAD",
+    "result": {
+      "winner": "",
+      "games": 
     }
   }
 ]
