@@ -71,6 +71,11 @@
           "name": "NLCS7",
           "pick": "ATL",
           "games": 5
+        },
+        {
+          "name": "WS",
+          "pick": "TB",
+          "games": 7
         }
     ]
   },
@@ -146,6 +151,11 @@
         "name": "NLCS7",
         "pick": "LAD",
         "games": 6
+      },
+      {
+        "name": "WS",
+        "pick": "",
+        "games": 
       }
     ]
   },
@@ -221,7 +231,12 @@
         "name": "NLCS7",
         "pick": "LAD",
         "games": 5
-      }
+      },
+      {
+        "name": "WS",
+        "pick": "LAD",
+        "games": 5
+      }      
     ]
   },
   {
@@ -296,7 +311,12 @@
         "name": "NLCS7",
         "pick": "ATL",
         "games": 7
-      }
+      },
+      {
+        "name": "WS",
+        "pick": "",
+        "games": 
+      }      
     ]
   },
   {
@@ -371,7 +391,12 @@
         "name": "NLCS7",
         "pick": "LAD",
         "games": 7
-      }
+      },
+      {
+        "name": "WS",
+        "pick": "LAD",
+        "games": 6
+      }      
     ]
   }
 ]
