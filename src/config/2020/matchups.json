@@ -124,5 +124,14 @@
       "winner": "LAD",
       "games": 7
     }
+  },
+  {
+    "name": "WS8",
+    "top": "TB",
+    "bottom": "LAD",
+    "result": {
+      "winner": "",
+      "games": 
+    }
   }
 ]
