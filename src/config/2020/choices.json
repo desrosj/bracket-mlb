@@ -73,7 +73,7 @@
           "games": 5
         },
         {
-          "name": "WS",
+          "name": "WS8",
           "pick": "TB",
           "games": 7
         }
@@ -153,7 +153,7 @@
         "games": 6
       },
       {
-        "name": "WS",
+        "name": "WS8",
         "pick": "TB",
         "games": 5
       }
@@ -233,7 +233,7 @@
         "games": 5
       },
       {
-        "name": "WS",
+        "name": "WS8",
         "pick": "LAD",
         "games": 5
       }      
@@ -313,7 +313,7 @@
         "games": 7
       },
       {
-        "name": "WS",
+        "name": "WS8",
         "pick": "TB",
         "games": 7
       }      
@@ -393,7 +393,7 @@
         "games": 7
       },
       {
-        "name": "WS",
+        "name": "WS8",
         "pick": "LAD",
         "games": 6
       }      
