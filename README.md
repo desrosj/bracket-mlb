@@ -1,6 +1,6 @@
 # Bracket
 
-Keep track of MLB playoff picks and score
+Keep track of MLB playoff picks and score.
 
 ## Usage
 
@@ -29,3 +29,5 @@ I'm just labelling them `{conference}{seriesNumber}` (e.g., `WS1`, `ALCS2`, `NLD
 
 1. Push to master
 1. Now automatically deploys to (TBD).
+
+This repo is based off the ["Blame Hockey" repo by Zack Tollman.](https://github.com/tollmanz/bracket).
