@@ -1,0 +1,83 @@
+[
+  {
+    "name": "ALWC1",
+    "top": "BOS",
+    "bottom": "NYY",
+    "result": {
+      "winner": "",
+      "games": 
+    }
+  },
+  {
+    "name": "NLWC1",
+    "top": "LAD",
+    "bottom": "STL",
+    "result": {
+      "winner": "",
+      "games": 
+    }
+  },
+  {
+    "name": "ALDS2",
+    "top": "TB",
+    "bottom": "",
+    "result": {
+      "winner": "",
+      "games": 
+    }
+  },
+  {
+    "name": "ALDS3",
+    "top": "HOU",
+    "bottom": "CWS",
+    "result": {
+      "winner": "",
+      "games": 
+    }
+  },
+  {
+    "name": "NLDS2",
+    "top": "SF",
+    "bottom": "",
+    "result": {
+      "winner": "",
+      "games": 
+    }
+  },
+  {
+    "name": "NLDS3",
+    "top": "MIL",
+    "bottom": "ATL",
+    "result": {
+      "winner": "",
+      "games": 
+    }
+  },
+  {
+    "name": "ALCS4",
+    "top": "",
+    "bottom": "",
+    "result": {
+      "winner": "",
+      "games": 
+    }
+  },
+  {
+    "name": "NLCS4",
+    "top": "",
+    "bottom": "",
+    "result": {
+      "winner": "",
+      "games": 
+    }
+  },
+  {
+    "name": "WS5",
+    "top": "",
+    "bottom": "",
+    "result": {
+      "winner": "",
+      "games": 
+    }
+  }
+]
