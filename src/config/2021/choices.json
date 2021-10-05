@@ -248,5 +248,55 @@
           "games": 
         }
     ]
+  },
+  {
+    "competitor": "@letter10",
+    "choices": [
+        {
+          "name": "ALWC1",
+          "pick": "",
+          "games": 
+        },
+        {
+          "name": "NLWC1",
+          "pick": "",
+          "games": 
+        },
+        {
+          "name": "ALDS2",
+          "pick": "",
+          "games": 
+        },
+        {
+          "name": "ALDS3",
+          "pick": "",
+          "games": 
+        },
+        {
+          "name": "NLDS2",
+          "pick": "",
+          "games": 
+        },
+        {
+          "name": "NLDS3",
+          "pick": "",
+          "games": 
+        },
+        {
+          "name": "ALCS4",
+          "pick": "",
+          "games": 
+        },
+        {
+          "name": "NLCS4",
+          "pick": "",
+          "games": 
+        },
+        {
+          "name": "WS5",
+          "pick": "",
+          "games": 
+        }
+    ]
   }
 ]
