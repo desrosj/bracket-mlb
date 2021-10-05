@@ -15,6 +15,7 @@ Keep track of MLB playoff picks and score.
 3. @whyisjake 6
 4. @jeffpaul 5
 5. @Drewbewilde 5
+6. @competitors.json 4
 ```
 
 ## Updating
