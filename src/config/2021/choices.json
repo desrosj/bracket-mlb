@@ -54,33 +54,33 @@
     "choices": [
         {
           "name": "ALWC1",
-          "pick": "",
-          "games": 
+          "pick": "BOS",
+          "games": 1
         },
         {
           "name": "NLWC1",
-          "pick": "",
-          "games": 
+          "pick": "LAD",
+          "games": 1
         },
         {
           "name": "ALDS2",
-          "pick": "",
-          "games": 
+          "pick": "BOS",
+          "games": 4
         },
         {
           "name": "ALDS3",
-          "pick": "",
-          "games": 
+          "pick": "CWS",
+          "games": 4
         },
         {
           "name": "NLDS2",
-          "pick": "",
-          "games": 
+          "pick": "SF",
+          "games": 5
         },
         {
           "name": "NLDS3",
-          "pick": "",
-          "games": 
+          "pick": "ATL",
+          "games": 4
         },
         {
           "name": "ALCS4",
@@ -114,23 +114,23 @@
         },
         {
           "name": "ALDS2",
-          "pick": "",
-          "games": 
+          "pick": "TB",
+          "games": 3
         },
         {
           "name": "ALDS3",
-          "pick": "",
-          "games": 
+          "pick": "HOU",
+          "games": 5
         },
         {
           "name": "NLDS2",
-          "pick": "",
-          "games": 
+          "pick": "LAD",
+          "games": 4
         },
         {
           "name": "NLDS3",
-          "pick": "",
-          "games": 
+          "pick": "MIL",
+          "games": 4
         },
         {
           "name": "ALCS4",
@@ -165,22 +165,22 @@
         {
           "name": "ALDS2",
           "pick": "BOS",
-          "games": 
+          "games": 0
         },
         {
           "name": "ALDS3",
           "pick": "CWS",
-          "games": 
+          "games": 0
         },
         {
           "name": "NLDS2",
           "pick": "SF",
-          "games": 
+          "games": 0
         },
         {
           "name": "NLDS3",
           "pick": "MIL",
-          "games": 
+          "games": 0
         },
         {
           "name": "ALCS4",
@@ -214,23 +214,23 @@
         },
         {
           "name": "ALDS2",
-          "pick": "",
-          "games": 
+          "pick": "TB",
+          "games": 4
         },
         {
           "name": "ALDS3",
-          "pick": "",
-          "games": 
+          "pick": "HOU",
+          "games": 4
         },
         {
           "name": "NLDS2",
-          "pick": "",
-          "games": 
+          "pick": "LAD",
+          "games": 4
         },
         {
           "name": "NLDS3",
-          "pick": "",
-          "games": 
+          "pick": "MIL",
+          "games": 4
         },
         {
           "name": "ALCS4",
