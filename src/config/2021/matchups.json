@@ -4,8 +4,8 @@
     "top": "BOS",
     "bottom": "NYY",
     "result": {
-      "winner": "",
-      "games": 
+      "winner": "BOS",
+      "games": 1
     }
   },
   {
@@ -13,14 +13,14 @@
     "top": "LAD",
     "bottom": "STL",
     "result": {
-      "winner": "",
-      "games": 
+      "winner": "LAD",
+      "games": 1
     }
   },
   {
     "name": "ALDS2",
     "top": "TB",
-    "bottom": "",
+    "bottom": "BOS",
     "result": {
       "winner": "",
       "games": 
@@ -38,7 +38,7 @@
   {
     "name": "NLDS2",
     "top": "SF",
-    "bottom": "",
+    "bottom": "LAD",
     "result": {
       "winner": "",
       "games": 
