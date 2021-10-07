@@ -165,22 +165,22 @@
         {
           "name": "ALDS2",
           "pick": "BOS",
-          "games": 0
+          "games": 5
         },
         {
           "name": "ALDS3",
           "pick": "CWS",
-          "games": 0
+          "games": 4
         },
         {
           "name": "NLDS2",
           "pick": "SF",
-          "games": 0
+          "games": 4
         },
         {
           "name": "NLDS3",
           "pick": "MIL",
-          "games": 0
+          "games": 5
         },
         {
           "name": "ALCS4",
