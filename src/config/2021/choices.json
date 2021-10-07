@@ -4,33 +4,33 @@
     "choices": [
         {
           "name": "ALWC1",
-          "pick": "",
-          "games": 
+          "pick": "BOS",
+          "games": 1
         },
         {
           "name": "NLWC1",
-          "pick": "",
-          "games": 
+          "pick": "STL",
+          "games": 1
         },
         {
           "name": "ALDS2",
-          "pick": "",
-          "games": 
+          "pick": "BOS",
+          "games": 5
         },
         {
           "name": "ALDS3",
-          "pick": "",
-          "games": 
+          "pick": "CWS",
+          "games": 4
         },
         {
           "name": "NLDS2",
-          "pick": "",
-          "games": 
+          "pick": "SF",
+          "games": 3
         },
         {
           "name": "NLDS3",
-          "pick": "",
-          "games": 
+          "pick": "ATL",
+          "games": 4
         },
         {
           "name": "ALCS4",
@@ -104,13 +104,13 @@
     "choices": [
         {
           "name": "ALWC1",
-          "pick": "",
-          "games": 
+          "pick": "NYY",
+          "games": 1
         },
         {
           "name": "NLWC1",
-          "pick": "",
-          "games": 
+          "pick": "LAD",
+          "games": 1
         },
         {
           "name": "ALDS2",
@@ -154,32 +154,32 @@
     "choices": [
         {
           "name": "ALWC1",
-          "pick": "",
-          "games": 
+          "pick": "BOS",
+          "games": 1
         },
         {
           "name": "NLWC1",
-          "pick": "",
-          "games": 
+          "pick": "STL",
+          "games": 1
         },
         {
           "name": "ALDS2",
-          "pick": "",
+          "pick": "BOS",
           "games": 
         },
         {
           "name": "ALDS3",
-          "pick": "",
+          "pick": "CWS",
           "games": 
         },
         {
           "name": "NLDS2",
-          "pick": "",
+          "pick": "SF",
           "games": 
         },
         {
           "name": "NLDS3",
-          "pick": "",
+          "pick": "MIL",
           "games": 
         },
         {
@@ -204,13 +204,13 @@
     "choices": [
         {
           "name": "ALWC1",
-          "pick": "",
-          "games": 
+          "pick": "NYY",
+          "games": 1
         },
         {
           "name": "NLWC1",
-          "pick": "",
-          "games": 
+          "pick": "LAD",
+          "games": 1
         },
         {
           "name": "ALDS2",
@@ -254,33 +254,33 @@
     "choices": [
         {
           "name": "ALWC1",
-          "pick": "",
-          "games": 
+          "pick": "NYY",
+          "games": 1
         },
         {
           "name": "NLWC1",
-          "pick": "",
-          "games": 
+          "pick": "LAD",
+          "games": 1
         },
         {
           "name": "ALDS2",
-          "pick": "",
-          "games": 
+          "pick": "TB",
+          "games": 4
         },
         {
           "name": "ALDS3",
-          "pick": "",
-          "games": 
+          "pick": "CWS",
+          "games": 5
         },
         {
           "name": "NLDS2",
-          "pick": "",
-          "games": 
+          "pick": "LAD",
+          "games": 5
         },
         {
           "name": "NLDS3",
-          "pick": "",
-          "games": 
+          "pick": "MIL",
+          "games": 4
         },
         {
           "name": "ALCS4",
