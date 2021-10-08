@@ -15,12 +15,13 @@ Keep track of MLB playoff picks and score.
 3. @whyisjake 6
 4. @jeffpaul 5
 5. @Drewbewilde 5
+6. @competitors.json 4
 ```
 
 ## Updating
 
 1. Add a new series to `config/{year}/matchups.json`. Each series needs to have a unique name. So far,
-I'm just labelling them `{conference}{seriesNumber}` (e.g., `WS1`, `ALCS2`, `NLDS3`, `ALWC4`).
+I'm just labelling them `{conference}{seriesNumber}` (e.g., `ALWC1`, `NLDS2`, `NLDS3`, `ALCS4`, `WS5` ).
 1. When the series is over, fill out the `results` property of the matchup
 1. Add new competitors to `config/{year}/competitors.json`
 1. Add new choices to `config/{year}/choices.json`
