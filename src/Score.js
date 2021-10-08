@@ -13,7 +13,9 @@ class Score extends Component {
 		return (
 			<ol className="App-intro">
 				{results.map ( ( r, i ) => {
-					return <li key={ "result-" + i } > {r.name} {r.score} </li>
+					const trimmed = r.name.substring(1);
+					const tweet = `https://twitter.com/${trimmed}`;
+					return <li key={ "result-" + i } ><a href={tweet}> {r.name}</a> - {r.score}</li>
 				})}
 			</ol>
 		);
