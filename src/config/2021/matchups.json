@@ -22,8 +22,8 @@
     "top": "TB",
     "bottom": "BOS",
     "result": {
-      "winner": "",
-      "games": ""
+      "winner": "BOS",
+      "games": "4"
     }
   },
   {
@@ -31,8 +31,8 @@
     "top": "HOU",
     "bottom": "CWS",
     "result": {
-      "winner": "",
-      "games": ""
+      "winner": "HOU",
+      "games": "4"
     }
   },
   {
@@ -40,8 +40,8 @@
     "top": "SF",
     "bottom": "LAD",
     "result": {
-      "winner": "",
-      "games": ""
+      "winner": "LAD",
+      "games": "5"
     }
   },
   {
@@ -49,14 +49,14 @@
     "top": "MIL",
     "bottom": "ATL",
     "result": {
-      "winner": "",
-      "games": ""
+      "winner": "ATL",
+      "games": "4"
     }
   },
   {
     "name": "ALCS4",
-    "top": "",
-    "bottom": "",
+    "top": "HOU",
+    "bottom": "BOS",
     "result": {
       "winner": "",
       "games": ""
@@ -64,8 +64,8 @@
   },
   {
     "name": "NLCS4",
-    "top": "",
-    "bottom": "",
+    "top": "ATL",
+    "bottom": "LAD",
     "result": {
       "winner": "",
       "games": ""
