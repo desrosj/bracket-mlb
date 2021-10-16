@@ -34,13 +34,13 @@
         },
         {
           "name": "ALCS4",
-          "pick": "",
-          "games": ""
+          "pick": "BOS",
+          "games": "6"
         },
         {
           "name": "NLCS4",
-          "pick": "",
-          "games": ""
+          "pick": "LAD",
+          "games": "6"
         },
         {
           "name": "WS5",
@@ -84,13 +84,13 @@
         },
         {
           "name": "ALCS4",
-          "pick": "",
-          "games": ""
+          "pick": "BOS",
+          "games": "6"
         },
         {
           "name": "NLCS4",
-          "pick": "",
-          "games": ""
+          "pick": "ATL",
+          "games": "7"
         },
         {
           "name": "WS5",
@@ -134,13 +134,13 @@
         },
         {
           "name": "ALCS4",
-          "pick": "",
-          "games": ""
+          "pick": "HOU",
+          "games": "6"
         },
         {
           "name": "NLCS4",
-          "pick": "",
-          "games": ""
+          "pick": "LAD",
+          "games": "5"
         },
         {
           "name": "WS5",
@@ -184,13 +184,13 @@
         },
         {
           "name": "ALCS4",
-          "pick": "",
-          "games": ""
+          "pick": "BOS",
+          "games": "7"
         },
         {
           "name": "NLCS4",
-          "pick": "",
-          "games": ""
+          "pick": "ATL",
+          "games": "4"
         },
         {
           "name": "WS5",
@@ -234,13 +234,13 @@
         },
         {
           "name": "ALCS4",
-          "pick": "",
-          "games": ""
+          "pick": "HOU",
+          "games": "6"
         },
         {
           "name": "NLCS4",
-          "pick": "",
-          "games": ""
+          "pick": "LAD",
+          "games": "5"
         },
         {
           "name": "WS5",
@@ -284,13 +284,13 @@
         },
         {
           "name": "ALCS4",
-          "pick": "",
-          "games": ""
+          "pick": "HOU",
+          "games": "7"
         },
         {
           "name": "NLCS4",
-          "pick": "",
-          "games": ""
+          "pick": "LAD",
+          "games": "6"
         },
         {
           "name": "WS5",
