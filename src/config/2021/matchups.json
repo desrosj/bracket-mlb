@@ -58,8 +58,8 @@
     "top": "HOU",
     "bottom": "BOS",
     "result": {
-      "winner": "",
-      "games": ""
+      "winner": "HOU",
+      "games": "6"
     }
   },
   {
@@ -67,14 +67,14 @@
     "top": "ATL",
     "bottom": "LAD",
     "result": {
-      "winner": "",
-      "games": ""
+      "winner": "ATL",
+      "games": "6"
     }
   },
   {
     "name": "WS5",
-    "top": "",
-    "bottom": "",
+    "top": "HOU",
+    "bottom": "ATL",
     "result": {
       "winner": "",
       "games": ""
