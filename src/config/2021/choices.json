@@ -35,12 +35,12 @@
         {
           "name": "ALCS4",
           "pick": "BOS",
-          "games": "6"
+          "games": 6
         },
         {
           "name": "NLCS4",
           "pick": "LAD",
-          "games": "6"
+          "games": 6
         },
         {
           "name": "WS5",
@@ -85,12 +85,12 @@
         {
           "name": "ALCS4",
           "pick": "BOS",
-          "games": "6"
+          "games": 6
         },
         {
           "name": "NLCS4",
           "pick": "ATL",
-          "games": "7"
+          "games": 7
         },
         {
           "name": "WS5",
@@ -135,12 +135,12 @@
         {
           "name": "ALCS4",
           "pick": "HOU",
-          "games": "6"
+          "games": 6
         },
         {
           "name": "NLCS4",
           "pick": "LAD",
-          "games": "5"
+          "games": 5
         },
         {
           "name": "WS5",
@@ -185,12 +185,12 @@
         {
           "name": "ALCS4",
           "pick": "BOS",
-          "games": "7"
+          "games": 7
         },
         {
           "name": "NLCS4",
           "pick": "ATL",
-          "games": "4"
+          "games": 4
         },
         {
           "name": "WS5",
@@ -235,12 +235,12 @@
         {
           "name": "ALCS4",
           "pick": "HOU",
-          "games": "6"
+          "games": 6
         },
         {
           "name": "NLCS4",
           "pick": "LAD",
-          "games": "5"
+          "games": 5
         },
         {
           "name": "WS5",
@@ -285,12 +285,12 @@
         {
           "name": "ALCS4",
           "pick": "HOU",
-          "games": "7"
+          "games": 7
         },
         {
           "name": "NLCS4",
           "pick": "LAD",
-          "games": "6"
+          "games": 6
         },
         {
           "name": "WS5",

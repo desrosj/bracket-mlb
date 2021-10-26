@@ -23,7 +23,7 @@
     "bottom": "BOS",
     "result": {
       "winner": "BOS",
-      "games": "4"
+      "games": 4
     }
   },
   {
@@ -32,7 +32,7 @@
     "bottom": "CWS",
     "result": {
       "winner": "HOU",
-      "games": "4"
+      "games": 4
     }
   },
   {
@@ -41,7 +41,7 @@
     "bottom": "LAD",
     "result": {
       "winner": "LAD",
-      "games": "5"
+      "games": 5
     }
   },
   {
@@ -50,7 +50,7 @@
     "bottom": "ATL",
     "result": {
       "winner": "ATL",
-      "games": "4"
+      "games": 4
     }
   },
   {
@@ -59,7 +59,7 @@
     "bottom": "BOS",
     "result": {
       "winner": "HOU",
-      "games": "6"
+      "games": 6
     }
   },
   {
@@ -68,7 +68,7 @@
     "bottom": "LAD",
     "result": {
       "winner": "ATL",
-      "games": "6"
+      "games": 6
     }
   },
   {
